@@ -1,4 +1,5 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Natnael Dessie</h1>
 <h3 align="center">A passionate fullstack developer focused on backend development</h3>
