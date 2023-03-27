@@ -5,7 +5,7 @@
 <h3 align="center">A passionate fullstack developer focused on backend development</h3>
 <p align="left"> <a href="https://twitter.com/nmanyazewal" target="blank"><img src="https://img.shields.io/twitter/follow/nmanyazewal?logo=twitter&style=for-the-badge" alt="nmanyazewal" /></a> </p>
 
-- 🔭 I’m currently working on [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR)
+- 🔭 I’m currently working on [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR) and [Chat Street](https://github.com/Solomon-Kebede/chatstreet/tree/django)
 
 - 📝 I regularly write articles on Webstack Front End Development Backend Networking Full Stack Developer
 
