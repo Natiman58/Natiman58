@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR)
 
-- 🌱 I’m currently learning **Backend Specialization**
-
 - 📝 I regularly write articles on Webstack Front End Development Backend Networking Full Stack Developer
 
 - 📫 How to reach me **natnaeldessie191@gmail.com**
