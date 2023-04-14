@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR) and [Chat Street](https://github.com/Solomon-Kebede/chatstreet/tree/django)
 
-- 📝 I regularly write articles on Webstack Front End Development Backend Networking Full Stack Developer
+- 📝 I regularly write articles on Webstack Front End Development and Backend Networking
 
 - 📫 How to reach me **natnaeldessie191@gmail.com**
 
