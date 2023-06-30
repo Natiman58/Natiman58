@@ -5,17 +5,17 @@
 <h3 align="center">A passionate fullstack developer focused on backend development</h3>
 <p align="left"> <a href="https://twitter.com/nmanyazewal" target="blank"><img src="https://img.shields.io/twitter/follow/nmanyazewal?logo=twitter&style=for-the-badge" alt="nmanyazewal" /></a> </p>
 
-- 🔭 I’m currently working on [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR) and [Chat Street](https://github.com/Solomon-Kebede/chatstreet/tree/django)
+- 🔭 I’m currently working on [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR), [Chat Street](https://github.com/Solomon-Kebede/chatstreet/tree/django), [The-AirBnB-clone](https://github.com/Natiman58/The-HBNB-clone)
 
 - 📝 I regularly write articles on Webstack Front-End and Back-End Development
 
 - 📫 How to reach me **natnaeldessie191@gmail.com**
 
-- ⚡ Fun fact **Funnny, communicative and zealous about tech**
+- ⚡ Fun fact **Funnny, communicative, and zealous about tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nmanyazewal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmanyazewal" height="30" width="40" /></a>
+<a href="https://twitter.com/nmanyazewal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nmanyazewal" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/natnael-dessie-0292281aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-dessie-0292281aa" height="30" width="40" /></a>
 <a href="https://medium.com/@natiman58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@natiman58" height="30" width="40" /></a>
 </p>
