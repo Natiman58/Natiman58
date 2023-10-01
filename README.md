@@ -5,13 +5,16 @@
 <h3 align="center">A passionate fullstack developer focused on backend development</h3>
 <p align="left"> <a href="https://twitter.com/nmanyazewal" target="blank"><img src="https://img.shields.io/twitter/follow/nmanyazewal?logo=twitter&style=for-the-badge" alt="nmanyazewal" /></a> </p>
 
-- 🔭 I’m currently working on [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR), [Chat Street](https://github.com/Solomon-Kebede/chatstreet/tree/django), [The-AirBnB-clone](https://github.com/Natiman58/The-HBNB-clone)
+
+- 🔭 I’m currently working on [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR), [Chat Street](https://github.com/Solomon-Kebede/chatstreet/tree/django), [The-AirBnB-clone](https://github.com/Natiman58/The-HBNB-clone), [MY-SOCIALS](https://social-media-app-front.vercel.app).
 
 - 📝 I regularly write articles on Webstack Front-End and Back-End Development
 
 - 📫 How to reach me **natnaeldessie191@gmail.com**
 
 - ⚡ Fun fact **Funnny, communicative, and zealous about tech**
+
+- Portfolio: [here](https://portfolio-six-chi-48.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
