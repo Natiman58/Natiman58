@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/nmanyazewal" target="blank"><img src="https://img.shields.io/twitter/follow/nmanyazewal?logo=twitter&style=for-the-badge" alt="nmanyazewal" /></a> </p>
 
 
-- 🔭 I’m currently working on [cubeseed Africa https://github.com/Cubeseed/Backend] [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR), [Chat Street](https://github.com/Solomon-Kebede/chatstreet/tree/django), [The-AirBnB-clone](https://github.com/Natiman58/The-HBNB-clone), [MY-SOCIALS](https://social-media-app-front.vercel.app).
+- 🔭 I’m currently working on [cubeseed Africa](https://github.com/Cubeseed/Backend), [Sonic OCR](https://github.com/soloALX/ScanMyPagesOCR), [Chat Street](https://github.com/Solomon-Kebede/chatstreet/tree/django), [The-AirBnB-clone](https://github.com/Natiman58/The-HBNB-clone), [MY-SOCIALS](https://social-media-app-front.vercel.app).
 
 - 📝 I regularly write articles on Webstack Front-End and Back-End Development
 
